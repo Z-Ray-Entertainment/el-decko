@@ -32,7 +32,7 @@ Repository: https://github.com/Z-Ray-Entertainment/el_decko_ui_qt6
 
 ## Planed Backends
 #### Keystroke
-  - Rootless emulation of keyboard shortcut and button press
+Repository: https://github.com/Z-Ray-Entertainment/el_decko_backend_keystroke
   
 ## Dropped backends / UIs
 ### TUI (Terminal user interface)
