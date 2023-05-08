@@ -5,8 +5,10 @@ El Decko is a collection of user interfaces, backends and other utilities to mak
 El Decko aims to be operable rootless and on any (or no) display server.  
 Additionally El Decko tries to embrace the Unix philosophy "Do one thing and do it well" as good as it can. Which is the main reason why the entire El Decko ecosystem is split among so many different projects.  
 
-The major advantage is that El Decko is very modular and it is relatively easy to supply custom backends.  
-In return the install size can also be tailored to ones need.
+The major advantage is that El Decko is very modular and it is relatively easy to supply custom backends and is not limited to one GUI toolkit. Hence we can supply a Qt-based, GTK-baesd, Flutter-based or even, if we fell up for the challenge to support Windows, Winform-based UIs and make this tool better integrate in the native look and feel of the end users desktop.  
+In return the install size can also be tailored to ones need.  
+
+Flatpak is our planed major distribution platform but native packages for your distribution (currently only openSUSE) are build on [build.opensuse.org](https://build.opensuse.org/project/show/home:VortexAcherontic:ElDecko)
 
 ## Available UIs
 ### GTK4
