@@ -1,5 +1,5 @@
 # El Decko
-El Decko is a collection of user interfaces, backends and other utilities to make use of Elgato Stream Decks on Linux
+El Decko is a collection of user interfaces, backends, the El Decko Core and other utilities to make use of Elgato Stream Decks on Linux.
 
 ## Desing Goals
 El Decko aims to be operable rootless and on any (or no) display server.  
@@ -8,24 +8,32 @@ Additionally El Decko tries to embrace the Unix philosophy "Do one thing and do 
 The major advantage is that El Decko is very modular and it is relatively easy to supply custom backends and is not limited to one GUI toolkit. Hence we can supply a Qt-based, GTK-baesd, Flutter-based or even, if we fell up for the challenge to support Windows, Winform-based UIs and make this tool better integrate in the native look and feel of the end users desktop.  
 In return the install size can also be tailored to ones need.  
 
-Flatpak is our planed major distribution platform but native packages for your distribution (currently only openSUSE) are build on [build.opensuse.org](https://build.opensuse.org/project/show/home:VortexAcherontic:ElDecko)
+Flatpak is our planed major distribution platform but native packages for your distribution (currently only openSUSE) are build on [build.opensuse.org](https://build.opensuse.org/project/show/home:VortexAcherontic:ElDecko).  
+Addionally you can get any El Decko component from pypi.org
 
+**Get El Decko Core here:**  
+Git-Repository: https://github.com/Z-Ray-Entertainment/el_decko_core  
+PyPi: https://pypi.org/project/el-decko-core/  
+ 
 ## Available UIs
 ### GTK4
 The GTK4 user interface is currently under heavy development and not really usable except for launching, stopping and reloading ed-core.  
-Repository: https://github.com/Z-Ray-Entertainment/el_decko_ui_gtk4
+
+Git-Repository: https://github.com/Z-Ray-Entertainment/el_decko_ui_gtk4
 
 ## Available Backends
 ### OBS Studio Websocket
-Repository: https://github.com/Z-Ray-Entertainment/el_decko_backend_obs_ws
+Git-Repository: https://github.com/Z-Ray-Entertainment/el_decko_backend_obs_ws  
+PyPi: https://pypi.org/project/el-decko-backend-obs-ws/  
 
 ### MPRIS 2 via dbus
-Repository: https://github.com/Z-Ray-Entertainment/el_decko_backend_mpris
+Repository: https://github.com/Z-Ray-Entertainment/el_decko_backend_mpris  
+PyPi: https://pypi.org/project/el-decko-backend-mpris/  
   
 ## Planed UIs
 ### Qt6
 The developemtn of the Qt6 user interface has not yet be started but is on our road map.  
-Repository: https://github.com/Z-Ray-Entertainment/el_decko_ui_qt6
+Gti-Repository: https://github.com/Z-Ray-Entertainment/el_decko_ui_qt6  
 
 ## Planed Backends
 #### Keystroke
