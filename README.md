@@ -54,9 +54,11 @@ As users usually asking for TUIs are also most likely users not wanting too much
 
 ## FAQ:
 ### Why is it called El Decko?
-El Decko is kind of a short version of Elgato Stream Deck but I got rid of the Gato and Stream and the name became El Decko.
+El Decko is kind of a short version of Elgato Stream Deck but I got rid of the Gato and Stream and the name became El Deck.  
+But I felt like El Deck wasn't very memorizable so I added an O to make it sound like some spanish or mexican mystical creature.  
+So it became El Decko.  
 
-### Why is the logo a cat wearing a sombrero?
+### Why is the logo a cat, wearing a sombrero and with a mustache?
 Well, this is kind of a dad joke.  
 If you put a space after the first two letters of Elgato you get El Gato.  
 El Gato is a male cat in spanish and my first thought was a cat wearing a sombrero.  
