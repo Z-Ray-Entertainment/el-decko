@@ -1,3 +1,5 @@
+![](el_decko_logo.png)
+
 # El Decko
 El Decko is a collection of user interfaces, backends, the El Decko Core and other utilities to make use of Elgato Stream Decks on Linux.
 
@@ -49,3 +51,13 @@ Repository: https://github.com/Z-Ray-Entertainment/el_decko_backend_keystroke
 The TUI was originally planed as a standalone terminal based interface but was dropped as the core of El Decko (ed-core) can be run as a standalone application already.  
 All configurations are stored as well-formed JSON files allowing for easy readability and shouldn't be very difficult to be edited by hand.  
 As users usually asking for TUIs are also most likely users not wanting too much bloat on their systems they probably won't install an additional interface if they could just use vim and launch ed-core by hand.
+
+## FAQ:
+### Why is it called El Decko?
+El Decko is kind of a short version of Elgato Stream Deck but I got rid of the Gato and Stream and the name became El Decko.
+
+### Why is the logo a cat wearing a sombrero?
+Well, this is kind of a dad joke.  
+If you put a space after the first two letters of Elgato you get El Gato.  
+El Gato is a male cat in spanish and my first thought was a cat wearing a sombrero.  
+This is how the logo was born.  
