@@ -60,6 +60,6 @@ So it became El Decko.
 
 ### Why is the logo a cat, wearing a sombrero and with a mustache?
 Well, this is kind of a dad joke.  
-If you put a space after the first two letters of Elgato you get El Gato.  
-El Gato is a male cat in spanish and my first thought was a cat wearing a sombrero.  
+Elgato does sond like el gato in spanish which is a male cat.  
+In addition to the name I already came up with "El Decko" my initial thought was that this mystical creature could be a cat with a mustache wearing a sombrero.  
 This is how the logo was born.  
